@@ -1,1 +1,1 @@
-# Snakes-and-Food-Game
+# Snake-and-Food-Game
